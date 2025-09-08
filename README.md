@@ -1,5 +1,2 @@
 # actions-harjoitukset
-testi
-t03 test
-testertest
-test
+commit-msg-test
